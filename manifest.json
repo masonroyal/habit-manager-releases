@@ -1,7 +1,7 @@
 {
   "id": "habit-manager",
   "name": "Habit Manager",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "minAppVersion": "0.15.0",
   "description": "Habit tracking driven by daily-note checklists: define habits in settings, generate checklists into daily notes, and two-way sync an interactive table with the notes.",
   "author": "Mason",
